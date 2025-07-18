@@ -36,18 +36,23 @@ This project builds a **secure multi-tier web application** infrastructure on AW
 
 ## ☁️ some screenshots from my project
 - **final results**
+  
 <img width="892" height="195" alt="image" src="https://github.com/user-attachments/assets/8bfc14fa-a9a9-469e-9c8d-d88bc21f9fc5" />
 <img width="926" height="154" alt="image" src="https://github.com/user-attachments/assets/ba53ee9b-4d78-464d-b06b-9c754ca03f15" />
 
--**current working space**
-<img width="528" height="153" alt="image" src="https://github.com/user-attachments/assets/1327c37e-9b13-47fa-978b-06958e5bbfcf" 
+- **current working space**
+  
+<img width="528" height="153" alt="image" src="https://github.com/user-attachments/assets/18796247-49bc-41a0-8c0f-a47e08c38db3" />
 
-  -**proxy configuration**
+
+  - **proxy configuration**
+
 <img width="528" height="153" alt="image" src="https://github.com/user-attachments/assets/333fc2ee-f20c-4978-b873-7b962b16b1df" />
 <img width="975" height="345" alt="image" src="https://github.com/user-attachments/assets/6cbdc911-f47c-4e42-bcfc-d1fda7564fae" />
 <img width="776" height="248" alt="image" src="https://github.com/user-attachments/assets/82606305-9f6e-49a4-9a12-9c3dcf794118" />
 
--**The s3 that contain the state file**
+- **The s3 that contain the state file**
+  
 <img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/46f5774e-1618-4ab9-b2fc-390d7ed97991" />
 
 
