@@ -29,7 +29,7 @@ This project builds a **secure multi-tier web application** infrastructure on AW
 
 ## ☁️ take care of when applying 
 - whenever you edit the ec2 you must destroy it and apply it again
-- take care of the structure of the modules (mina,outputs,variables)
+- take care of the structure of the modules (main,outputs,variables)
 - security groups are sensitive as you may accidentally forget to open needed ports
 - make sure you associated the route table to the ec2
 
