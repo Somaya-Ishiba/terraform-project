@@ -20,7 +20,7 @@ This project builds a **secure multi-tier web application** infrastructure on AW
 - **EC2 Provisioning**:
   - NGINX on proxy servers (via `remote-exec`)
   - Apache (`httpd`) on backend servers
-  - local provisioning to print the ips in a file.txt
+  - local provisioning to print the ips in a file.txt (created in the output.tf file)
 - **State Management**:
   - Remote state stored in **S3**
   - Locking with **DynamoDB**
@@ -57,6 +57,7 @@ This project builds a **secure multi-tier web application** infrastructure on AW
 - **The s3 that contain the state file**
   
 <img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/46f5774e-1618-4ab9-b2fc-390d7ed97991" />
+
 
 
 
